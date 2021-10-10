@@ -15,6 +15,10 @@ namespace ClassIntro
             public string Egitmen { get; set; }
             public int IzlenmeOrani { get; set; }
             public int Yasi { get; set; }
+            public string EkAciklama { get; set; }
+
+
+
 
         }
 
