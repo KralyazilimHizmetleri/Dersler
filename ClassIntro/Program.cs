@@ -16,6 +16,8 @@ namespace ClassIntro
             public int IzlenmeOrani { get; set; }
             public int Yasi { get; set; }
 
+
+
         }
 
 
